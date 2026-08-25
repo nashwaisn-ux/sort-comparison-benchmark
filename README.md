@@ -17,7 +17,6 @@ A Java-based performance benchmarking tool designed to analyze, compare, and vis
 1. Clone this repository:
    ```bash
    git clone [https://github.com/nashwaisn-ux/sort-comparison-benchmark.git]
-   (https://github.com/nashwaisn-ux/sort-comparison-benchmark.git)
 2. Open the project in your preferred IDE (NetBeans / IntelliJ / VS Code).
 3. Build the project using Maven:
    "mvn clean compile"
