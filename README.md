@@ -13,13 +13,13 @@ A Java-based performance benchmarking tool designed to analyze, compare, and vis
 - Visualization: JFreeChart
 
 3. Cara menjalankan proyek
-a. Clone this repository:
+- Clone this repository:
    ```bash
    git clone [https://github.com/nashwaisn-ux/sort-comparison-benchmark.git]
-b. Open the project in your preferred IDE (NetBeans / IntelliJ / VS Code).
-c. Build the project using Maven:
+- Open the project in your preferred IDE (NetBeans / IntelliJ / VS Code).
+- Build the project using Maven:
    "mvn clean compile"
-d. Run SortComparison.java.
+- Run SortComparison.java.
 
 4. Visual Benchmark
 ![Sorting Comparison Chart](assets/chart.png)
